@@ -65,7 +65,7 @@ header{
     padding-top: 50px;
     background: url("../images/developer.png"),url("../images/header_bg.png"),antiquewhite;
     background-repeat: no-repeat;
-    background-position:top left,bottom right ;
+    background-position:23px 38px,bottom right ;
 }
 
 nav{
@@ -210,3 +210,50 @@ margin-bottom: 30px;
     margin-top: 30px;
     margin-bottom:30px;
  }
+ .text-center{
+    text-align: center;
+ }
+ footer{
+    margin-top: 130px;
+    background-color:#FFF8F3;
+    padding:130px 0;
+ }
+ .footer-contaner{
+    width:71%;
+    max-width: 1140px;
+    margin:0 auto;
+    display: flex;
+ }
+ .social{
+    max-width: 562px;
+ }
+.footer-contaner h2{
+    color: #181818;
+    font-size: 35px;
+    margin-bottom: 20px;
+}
+.footer-contaner p{
+    color: #474747;
+    line-height: 28px;
+    font-size: 16px;
+    margin-bottom:30px;
+}
+.icon a{
+    margin-right: 24px;
+}
+.from input[type="text"]{
+width: 461px;
+padding: 18px 31px;
+margin-bottom: 24px;
+border: none;
+border-radius: 5px;
+color: #757575;
+}
+.from textarea{
+width: 461px;
+padding: 18px 31px;
+margin-bottom: 24px;
+border: none;
+border-radius: 5px;
+color: #757575;
+}
